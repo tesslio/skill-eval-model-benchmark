@@ -1,8 +1,8 @@
 {
   "name": "tessl-labs/skill-eval-model-benchmark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Run task evals across multiple Claude models, compare results side-by-side, and identify which skill gaps are model-specific versus universal",
-  "private": true,
+  "private": false,
   "skills": {
     "skill-eval-model-benchmark": {
       "path": "skills/eval-model-compare/SKILL.md"
